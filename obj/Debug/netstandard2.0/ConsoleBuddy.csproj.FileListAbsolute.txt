@@ -1,0 +1,9 @@
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\bin\Debug\netstandard2.0\ConsoleBuddy.deps.json
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\bin\Debug\netstandard2.0\ConsoleBuddy.dll
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\bin\Debug\netstandard2.0\ConsoleBuddy.pdb
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\obj\Debug\netstandard2.0\ConsoleBuddy.csprojAssemblyReference.cache
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\obj\Debug\netstandard2.0\ConsoleBuddy.csproj.CoreCompileInputs.cache
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\obj\Debug\netstandard2.0\ConsoleBuddy.AssemblyInfoInputs.cache
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\obj\Debug\netstandard2.0\ConsoleBuddy.AssemblyInfo.cs
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\obj\Debug\netstandard2.0\ConsoleBuddy.dll
+C:\Users\BeutlerD\source\repos\ConsoleTesting\ConsoleBuddy\obj\Debug\netstandard2.0\ConsoleBuddy.pdb
