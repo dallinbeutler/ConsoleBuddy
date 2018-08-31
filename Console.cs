@@ -28,6 +28,7 @@ namespace ConsoleBuddy
          int length = 0;
          int MaxLength = System.Console.BufferWidth;
          StringBuilder stringBuilder = new StringBuilder();
+         
          foreach (object o in objects)
          {
             if (o.GetType() == typeof(System.ConsoleColor))
@@ -44,9 +45,11 @@ namespace ConsoleBuddy
                   if (length > MaxLength)
                   {
                      System.Console.Write(s.Substring(0, length - MaxLength - 3) + "...");
+                     break;
                   }
                   else
                   {
+                     
                      System.Console.Write(s.PadRight(maxBufferWidth));
                   }
                }
@@ -69,7 +72,7 @@ namespace ConsoleBuddy
                0, HeaderHeight + 2);
             System.Console.SetCursorPosition(0, System.Console.CursorTop - 1);
          }
-         Write(true, System.Console.BufferWidth-1, objects);
+         Write(false, System.Console.BufferWidth-1, objects);
          Write(false, 1,"\n");
          //Interlocked.Increment(ref HeaderHeight);
       }
